@@ -9,9 +9,9 @@ User study to assess the challenges and practices used when working with Docker 
 - `/data_analysis`
   - Contains the jupyter notebook used to analyse the data collected in the study.
 - `/first_run`
-  - Contains the survey (`survey.pdf`), raw results (`raw_results.csv`) and results filtered by experience with Dockerfiles (`filtered_results.xlsx`) for the first run of the survey.
+  - Contains the survey (`survey.pdf`), raw results (`raw_results.csv`) and results filtered by experience with Dockerfiles (`filtered_results.csv`) for the first run of the survey.
 - `/second_run`
-  - Contains the survey (`survey.pdf`), raw results (`raw_results.csv`) and results filtered by experience with Dockerfiles (`filtered_results.xlsx`) for the second run of the survey.
+  - Contains the survey (`survey.pdf`), raw results (`raw_results.csv`) and results filtered by experience with Dockerfiles (`filtered_results.csv`) for the second run of the survey.
 
 ## Procedure
 
